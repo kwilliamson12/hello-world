@@ -1,3 +1,3 @@
 # hello-world
 
-demonstration
+Just a demonstration
